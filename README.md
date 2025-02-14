@@ -69,4 +69,4 @@ Developed by **Jude Nwachukwu Onyejekwe** for [**DumbData**](https://dumbdata.co
 ---
 
 ## 📜 License
-This template is released under the **MIT License**. Feel free to contribute and improve!
+This template is released under the **APACHE License**. Feel free to contribute and improve!
