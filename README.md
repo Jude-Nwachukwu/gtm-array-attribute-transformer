@@ -50,6 +50,7 @@ Developed by **Jude Nwachukwu Onyejekwe** for [**DumbData**](https://dumbdata.co
 | `[ {"id": "XYZ"}, {"id": "ABC"} ]` | `non_existent_key` | `String` | `['', '']` |
 | `not_an_array` | `name` | `String` | `['']` |
 | `[ {"price": "not_a_number"}, {"price": "50.5"} ]` | `price` | `Number` | `['not_a_number', 50.5]` |
+| `[ {"id": "123", "name": "Item A", "price": "10.99"}, {"id": "456", "name": "Item B", "price": "20.50"} ]` | `name` | `String` | `['Item A', 'Item B']` |
 
 ---
 
