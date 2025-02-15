@@ -2,5 +2,5 @@
 homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-array-attribute-transformer
 versions:
-  - sha: 6a
+  - sha: 2d84f603d6b731e037e3548a6fac0ec0e09f5704
     changeNotes: Initial release.
