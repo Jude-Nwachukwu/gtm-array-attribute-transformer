@@ -13,6 +13,9 @@ Developed by **Jude Nwachukwu Onyejekwe** for [**DumbData**](https://dumbdata.co
 
 ---
 
+**➡️ Here is the custom template repository for the [server GTM custom template](https://github.com/Jude-Nwachukwu/server-gtm-array-transformer)**
+
+
 ## ⚙️ Configuration
 
 ### **Fields Tab Settings**
